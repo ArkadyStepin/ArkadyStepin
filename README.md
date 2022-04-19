@@ -13,7 +13,7 @@
 
  I’m currently learning TypeScript
 
-**connection with me:**
+**Connection with me:**
 
 * Telegram - https://t.me/@x_AdioS_x
 * Email - Stepin711@gmail.com
