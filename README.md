@@ -11,7 +11,7 @@
 * Sequelize
 * PostgreSQL
 
- I’m currently learning TypeScript
+ I’m currently learning TypeScript, vue, nuxt, vuex
 
 **Connection with me:**
 
