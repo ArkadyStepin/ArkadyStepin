@@ -5,13 +5,13 @@
 **My stack:**
 * JavaScript
 * HTML/CSS
-* React & Redux
+* Vue/Quasar
 * NodeJS
 * Express
 * Sequelize
 * PostgreSQL
 
- I’m currently learning TypeScript, vue, nuxt, vuex
+ I’m currently learning TypeScript
 
 **Connection with me:**
 
